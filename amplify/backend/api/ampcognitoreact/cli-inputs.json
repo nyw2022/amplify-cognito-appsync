@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "ampcognitoreact",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/nyw/Documents/amp-cognito-react/amplify/backend/api/ampcognitoreact/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authampcognitoreact50893ec6"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
